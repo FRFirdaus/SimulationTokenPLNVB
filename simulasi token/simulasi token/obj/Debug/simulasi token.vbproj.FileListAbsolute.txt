@@ -1,0 +1,96 @@
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Asus\Documents\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Desktop\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+E:\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+E:\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+E:\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+E:\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+E:\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+E:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+E:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+E:\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+D:\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+D:\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+D:\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+D:\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+D:\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+D:\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+D:\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+D:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+D:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+D:\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+D:\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+G:\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+G:\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+G:\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+G:\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+G:\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+G:\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+G:\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+G:\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+G:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+G:\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+G:\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+D:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+D:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+D:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+D:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+D:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+D:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+G:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.exe.config
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.exe
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.xml
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.pdb
+G:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.exe
+G:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.pdb
+G:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\simulasi token.xml
+G:\_\DATA REHAN\simulasi token\simulasi token\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.vbprojResolveAssemblyReference.cache
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Form1.resources
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\WindowsApplication1.Resources.resources
+G:\_\DATA REHAN\simulasi token\simulasi token\obj\Debug\simulasi token.vbproj.GenerateResource.Cache
+D:\REHAN\Buat Dosen\simulasi token\simulasi token\obj\Debug\WindowsApplication1.profile.resources
